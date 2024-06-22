@@ -27,3 +27,6 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenniele&theme=solarized_dark)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
