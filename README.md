@@ -70,8 +70,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenniele&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Contact me:</h2>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/champxde)
-
 
