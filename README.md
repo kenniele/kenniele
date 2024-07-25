@@ -22,12 +22,14 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from _Russia_.
 - :telescope: I’m studying as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
+
+- :diamond_shape_with_a_dot_inside: I'm open to new things that might be interesting to me.
   
 ---
 
