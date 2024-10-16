@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJtZnY3NnJ4YXNkZGc5MHdzOThwNXNqejRib3gzdTA3eTlmc3l4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" width="145">
   <div id="badges">
-    <a href="https://t.me/champxde">
+    <a href="https://t.me/mskenjoyer">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alter="Telegram">
     </a>
     <a href="https://leetcode.com/u/kenniele/">
